@@ -8,10 +8,10 @@ h1{
     padding: 20px;
     margin:0;
     position: sticky;
-    top:0;
-    
-    
-    
+    top:0   
+}
+#header{
+    background: white;
 }
 h3{
     text-transform: uppercase;
@@ -131,7 +131,4 @@ p{
 }
 h4{
     text-align: center;
-}
-#dua{
-    line-height:2px;
 }
